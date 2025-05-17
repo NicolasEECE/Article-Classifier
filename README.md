@@ -13,3 +13,6 @@ This model uses a transformer architecture to classify news articles within 6 gr
 - Train accuracy: 97.86%
 - Validation accuracy: 75.66%
 - Test accuracy: 74.84%
+
+
+Contributors: 
