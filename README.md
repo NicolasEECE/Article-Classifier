@@ -15,4 +15,4 @@ This model uses a transformer architecture to classify news articles within 6 gr
 - Test accuracy: 74.84%
 
 
-Contributors: @saraamicic, 
+Contributors: @saraamicic, @everythingisanillusion
